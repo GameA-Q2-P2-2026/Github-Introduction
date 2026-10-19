@@ -13,7 +13,7 @@ For your first assignment, you will clone this repository, create your own branc
 2. Go to the top menu and select **File** > **Clone repository...**
 3. Click on the **URL** tab.
 4. Paste the following URL into the repository box:
-   `https://github.com/Mazzia-CSC1001/Github-Introduction.git`
+   `https://github.com/GameA-Q2-P2-2026/Github-Introduction.git`
 5. Choose a "Local Path" on your computer where you want to save the project folder (e.g., your Documents folder).
 6. Click the blue **Clone** button.
 
